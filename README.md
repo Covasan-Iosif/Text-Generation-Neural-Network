@@ -1,4 +1,4 @@
-# Text-Generation-Neural-Network
+# Text-Generation-Neural-Network :pencil:
 Since recurrent neural networks and LSTMs in particular have a short term memory, we can train it to “guess” the next letter based on the letters that came before. That leads to our network producing these texts like Shakespeare. 
 
 ## Installation
